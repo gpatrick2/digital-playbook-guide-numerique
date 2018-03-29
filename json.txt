@@ -1,6 +1,6 @@
 {
-  "title": "Amazing new feature",
-  "body": "Please pull this in!",
+  "title": "Media Wiki update",
+  "body": "Pull request based on the GCWiki change",
   "head": "gpatrick2:testing",
   "base": "master"
 }
